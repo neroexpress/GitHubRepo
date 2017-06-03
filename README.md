@@ -1,4 +1,4 @@
-# This is a solution to the problem; when we are not able to launch jupyter notebook in safari from Anaconda-Navigator with macOS Sierra.
+# This is a solution to the problem; when we are not able to launch jupyter notebook in Safari from Anaconda-Navigator with macOS Sierra.
 
 1. Go to this location **~/.jupyter/jupyter_notebook_config.py**  
 	1. Hold _Command + Shift_ key and press _.dot_ to see hidden files in your root directory  
